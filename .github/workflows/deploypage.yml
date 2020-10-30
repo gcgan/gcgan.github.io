@@ -22,7 +22,7 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@master
         with:
-          submodules: true
+          submodules: fasle
       - name: Publish Site
         uses: chabad360/hugo-gh-pages@master
         with:
