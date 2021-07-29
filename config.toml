@@ -21,6 +21,8 @@ url="aboutme"
 weight="2"
 
 [Params] 
+mainSections:
+- blog
 pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
 post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
 mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
@@ -28,7 +30,7 @@ mainSections = ["post", "blog", "news"] # Specify section pages to show on home 
 
 [Params.sidebar]
   home = "right" # Configure layout for home page
-  list = "left"  # Configure layout for list pages
+  list = "right"  # Configure layout for list pages
   single = false # Configure layout for single pages
   # Enable widgets in given order
   widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
