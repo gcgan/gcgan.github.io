@@ -3,3 +3,6 @@ languageCode = "zh-CN"
 title = "Gc's Code"
 
 theme = "mainroad"
+
+tag = "tags"
+category = "categories"
