@@ -27,3 +27,14 @@ category = "categories"
   categories_counter = false # Enable counter for each category in "Categories" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget
 
+[Params.widgets.social]
+  # Enable parts of social widget
+  # facebook = "username"
+  # twitter = "username"
+  # instagram = "username"
+  linkedin = "gcgan"
+  # telegram = "username"
+  github = "gcgan"
+  # gitlab = "username"
+  # bitbucket = "username"
+  email = "gcgan@outlook.com"
