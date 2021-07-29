@@ -9,9 +9,22 @@ category = "categories"
 [Author] # Used in authorbox
   name = "gcgan"
   bio = "操哥的博客"
-  avatar = "img/avatar.png"
+  avatar = "https://avatars.githubusercontent.com/u/56204"
 
-[Params]
+[[menu.main]]
+name="首页"
+url="/"
+weight="1"
+[[menu.main]]
+name="关于我"
+url="aboutme"
+weight="2"
+
+[Params] 
+pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
+post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
+mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
+
 
 [Params.sidebar]
   home = "right" # Configure layout for home page
