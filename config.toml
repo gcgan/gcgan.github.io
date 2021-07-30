@@ -17,7 +17,7 @@ url="/"
 weight="1"
 [[menu.main]]
 name="关于我"
-url="aboutme"
+url="/aboutme"
 weight="2"
 
 [Params]
