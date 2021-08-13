@@ -3,15 +3,8 @@ languageCode = "zh-CN"
 title = "Gc's Code"
 
 theme = "mainroad"
-tag = "tags"
-category = "categories"
+mainSections = ["posts"]
 
-rsslimit = 9999
-
-[Author] # Used in authorbox
-  name = "gcgan"
-  bio = "操哥的博客"
-  avatar = "https://avatars.githubusercontent.com/u/56204"
 
 [[menu.main]]
 name="首页"
@@ -21,33 +14,3 @@ weight="1"
 name="关于我"
 url="/aboutme"
 weight="2"
-
-[Params]
-pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
-post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
-mainSections = ["posts"] # Specify section pages to show on home page and the "Recent articles" widget
-
-
-[Params.sidebar]
-  home = "right"   # Configure layout for home page
-  list = "right"   # Configure layout for list pages
-  single = "right" # Configure layout for single pages
-  # Enable widgets in given order
-  widgets = ["search", "recent", "categories", "taglist"]
-
-[Params.widgets]
-  recent_num = 5 # Set the number of articles in the "Recent articles" widget
-  categories_counter = false # Enable counter for each category in "Categories" widget
-  tags_counter = false # Enable counter for each tag in "Tags" widget
-
-[Params.widgets.social]
-  # Enable parts of social widget
-  # facebook = "username"
-  # twitter = "username"
-  # instagram = "username"
-  linkedin = "gcgan"
-  # telegram = "username"
-  github = "gcgan"
-  # gitlab = "username"
-  # bitbucket = "username"
-  email = "gcgan@outlook.com"
