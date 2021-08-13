@@ -6,6 +6,8 @@ theme = "mainroad"
 tag = "tags"
 category = "categories"
 
+rsslimit = 9999
+
 [Author] # Used in authorbox
   name = "gcgan"
   bio = "操哥的博客"
