@@ -6,7 +6,7 @@ theme = "mainroad"
 mainSections = ["posts"]
 readmore = true
 dateformat = "2006-01-02"
-sidebar = "right"
+# sidebar = "right"
 
 
 [[menu.main]]
