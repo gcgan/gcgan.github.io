@@ -14,9 +14,10 @@ categorys: ["技术"]
 
 ## Althttpd有多小
 Althttpd只有一个文件[althttpd.c](https://sqlite.org/althttpd/file?name=althttpd.c&ci=tip),这个文件一共只有2593行（对应的nginx代码有173139行，不含注释和空行），用cloc分析的数据如下：
-|Language|files|blank|comment|code|
-|-----|-----|-----|-----|-----|
-|C|1|101|593|1899|
+
+| Language | files | blank | comment | code |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
+| C | 1 | 101 | 593 | 1899 |
 
 ## 本地运行Althttpd
 1. 下载源代码：
