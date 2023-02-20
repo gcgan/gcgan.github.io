@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>学习摘要 on Gc&#39;s Code</title>
+    <link>https://gcgan.github.io/tags/%E5%AD%A6%E4%B9%A0%E6%91%98%E8%A6%81/</link>
+    <description>Recent content in 学习摘要 on Gc&#39;s Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gcgan.github.io/tags/%E5%AD%A6%E4%B9%A0%E6%91%98%E8%A6%81/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>简单的复杂问题与复杂的简单问题</title>
+      <link>https://gcgan.github.io/posts/%E7%AE%80%E5%8D%95%E7%9A%84%E5%A4%8D%E6%9D%82%E9%97%AE%E9%A2%98%E4%B8%8E%E5%A4%8D%E6%9D%82%E7%9A%84%E7%AE%80%E5%8D%95%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gcgan.github.io/posts/%E7%AE%80%E5%8D%95%E7%9A%84%E5%A4%8D%E6%9D%82%E9%97%AE%E9%A2%98%E4%B8%8E%E5%A4%8D%E6%9D%82%E7%9A%84%E7%AE%80%E5%8D%95%E9%97%AE%E9%A2%98/</guid>
+      <description>简单的复杂问题指的是问题空间是闭合的，但是问题本身却又有较高的复杂度。比如下围棋属于简单的复杂问题。对于简单的复杂问题，只要问题空间是闭合的，随著算力的提升，算法的优化，人工智能的优势显而易见，这也是AlphaGo可以轻松击败人类棋王，也可以把最天才的人类棋手打哭的原因。 复杂的简</description>
+    </item>
+    
+    <item>
+      <title>《新宋》摘要小抄</title>
+      <link>https://gcgan.github.io/posts/%E6%96%B0%E5%AE%8B%E6%91%98%E8%A6%81/</link>
+      <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gcgan.github.io/posts/%E6%96%B0%E5%AE%8B%E6%91%98%E8%A6%81/</guid>
+      <description>&lt;p&gt;前几天发现，刚毕业时追的《新宋》居然在2019年完本了，于是把他读完了。做了一些摘要，把他分享出来。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

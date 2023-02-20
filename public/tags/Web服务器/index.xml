@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web服务器 on Gc&#39;s Code</title>
+    <link>https://gcgan.github.io/tags/Web%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
+    <description>Recent content in Web服务器 on Gc&#39;s Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gcgan.github.io/tags/Web%E6%9C%8D%E5%8A%A1%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Althttpd</title>
+      <link>https://gcgan.github.io/posts/Hello-Althttpd/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gcgan.github.io/posts/Hello-Althttpd/</guid>
+      <description>&lt;h2 id=&#34;althttpd是什么&#34;&gt;Althttpd是什么&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://sqlite.org/althttpd/doc/trunk/althttpd.md&#34;&gt;Althttpd&lt;/a&gt; 是一个非常小巧的Web服务器，力求简单、安全和低资源使用。他的作者是&lt;a href=&#34;https://github.com/drhsqlite&#34;&gt;Richard Hipp&lt;/a&gt;，Richard Hipp也是&lt;a href=&#34;https://sqlite.org/&#34;&gt;SQLite&lt;/a&gt;的作者，SQLite的官网正是运行在Althttpd上。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
