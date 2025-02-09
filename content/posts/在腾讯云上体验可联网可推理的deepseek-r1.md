@@ -13,15 +13,15 @@ categories: ["人工智能"]
 
 1. 在浏览器中打开这个网址：[https://console.cloud.tencent.com/lkeap](https://console.cloud.tencent.com/lkeap)，并使用微信扫描登录，会进入到下图所示的页面：
 
-![开通大模型知识引擎](/static/images/lkeap/开通大模型知识引擎.png)
+![开通大模型知识引擎](/images/lkeap/开通大模型知识引擎.png)
 
 2. 在弹出的界面选择`大模型知识引擎`,进入[体验中心](https://lke.cloud.tencent.com/lke#/experience-center/home?origin=all),我们可以看到`DeepSeek联网助手`就排在第一个。
 
-![体验中心](/static/images/lkeap/体验中心.png)
+![体验中心](/images/lkeap/体验中心.png)
 
 3. 点击`立即体验`,就可以立即体验可联网的DeepSeek了
 
-![体验界面](/static/images/lkeap/体验界面.png)
+![体验界面](/images/lkeap/体验界面.png)
 
-![验证](/static/images/lkeap/验证.png)
+![验证](/images/lkeap/验证.png)
 问了他"哪些地方可以不间断体验可联网的完整DeepSeek"这个问题，居然没有推荐自己，下次我去验证一下他的这些推荐。
