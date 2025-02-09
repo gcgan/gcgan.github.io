@@ -2,8 +2,8 @@
 title: "在腾讯云上体验可联网可推理的deepseek-r1"           # 文章标题
 author: "gcgan"              # 文章作者
 description : "近期可以完美体验的完整deepseek-r1，期待官方可以尽快解决时灵时不灵的问题"    # 文章描述信息
-date: 2025-01-31            # 文章编写日期
-lastmod: 2025-01-31         # 文章修改日期
+date: 2025-02-09            # 文章编写日期
+lastmod: 2025-02-09         # 文章修改日期
 tags:  ["人工智能", "大模型", "deepseek", "deepseek-r1", "腾讯云", "信息安全"]
 categories: ["人工智能"]
 ---
